@@ -1,1 +1,1 @@
-# MvcEntityFrameworkSamples
+# Mvc Entity Framework Samples Project
